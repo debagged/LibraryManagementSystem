@@ -1,4 +1,4 @@
-package com.mycompany.java_library;
+ package com.mycompany.java_library;
 
 import com.mycompany.java_ui.LibraryLogInPage;
 
